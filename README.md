@@ -1,5 +1,5 @@
 <h1>JWipe - Disk Sanitization</h1>
-
+[image alt](https://github.com/tenintech/ad-infrastructure/blob/main/1resource%20group.png?raw=true)
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
@@ -28,7 +28,7 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://github.com/tenintech/ad-infrastructure/blob/main/1resource%20group.png?raw=true)"/>
 <br />
 <br />
 Confirm your selection:  <br/>
@@ -56,3 +56,5 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+
+![Image Alt](image_url)
