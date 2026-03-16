@@ -20,7 +20,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src=""C:\Users\Teni\OneDrive\Pictures\Capturas de pantalla\1.Prepare AD Infrastructure\1resource group.png"" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Alt text](https://github.com/tenintech/ad-infrastructure/blob/25347f832d878dc31009e41f8f6787fd66c7d5d2/2created%20dc.png)
+ <img src=""C:\Users\Teni\OneDrive\Pictures\Capturas de pantalla\1.Prepare AD Infrastructure\1resource group.png"" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
