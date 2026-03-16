@@ -1,5 +1,5 @@
 <h1>JWipe - Disk Sanitization</h1>
-[image alt](https://github.com/tenintech/ad-infrastructure/blob/main/1resource%20group.png?raw=true)
+[image alt] (https://github.com/tenintech/ad-infrastructure/blob/main/1resource%20group.png?raw=true)
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
